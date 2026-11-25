@@ -35,22 +35,22 @@ The objective is to identify sales trends, evaluate business performance, and di
 ## Dashboard Preview
 
 ### Data Overview
-![Data Overview](screenshots/01_data_overview.png)
+![Data Overview](Superstore-Sales-Profitability-Dashboard/screenshots/01_data_overview.png)
 
 ### Sales Analysis
-![Sales Analysis](screenshots/02_sales_analysis.png)
+![Sales Analysis](Superstore-Sales-Profitability-Dashboard/screenshots/02_sales_analysis.png)
 
 ### Profit Analysis
-![Profit Analysis](screenshots/03_profit_analysis.png)
+![Profit Analysis](Superstore-Sales-Profitability-Dashboard/screenshots/03_profit_analysis.png)
 
 ### Category & Region Analysis
-![Category and Region Analysis](screenshots/04_category_region_analysis.png)
+![Category and Region Analysis](Superstore-Sales-Profitability-Dashboard/screenshots/04_category_region_analysis.png)
 
 ### Power BI Dashboard
-![Power BI Dashboard](screenshots/05_power_bi_dashboard.png)
+![Power BI Dashboard](Superstore-Sales-Profitability-Dashboard/screenshots/05_power_bi_dashboard.png)
 
 ### Business Insights
-![Business Insights](screenshots/06_business_insights.png)
+![Business Insights](Superstore-Sales-Profitability-Dashboard/screenshots/06_business_insights.png)
 
 ## Key Areas of Analysis
 - Sales performance
