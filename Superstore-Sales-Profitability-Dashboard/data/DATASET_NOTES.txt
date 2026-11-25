@@ -1,0 +1,8 @@
+Dataset: Sample_Superstore.csv
+Rows: 5,000 order-line records
+Columns: 21
+Type: Synthetic / generated educational dataset (not Tableau's official Sample Superstore file)
+Random seed: 42
+
+Use for practicing data cleaning, EDA, SQL aggregation, sales/profit analysis, and Power BI dashboards.
+Do not describe this as real company data or as the official Tableau dataset.
